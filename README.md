@@ -11,13 +11,13 @@ Connect slack with a minecraft server. Receive notifications in minecraft chat m
 
 4) When you join the server, you will be approached with a message which you can read if you need help. Now, to connect with the slack bot, do `/slc <thekeyyouhavebeenkeepinginasafeplace>` (and yes, there is enough space in chat box). When you receive the go-ahead message, you can now use all the commands:
 
-You can *disconnect* from the slack bot using `/sld`
-You can *send a message to a channel* with `/slack <channel> <message>`
-You can *send a private message* with `/pm <user> <message>`
+  - You can *disconnect* from the slack bot using `/sld`
+  - You can *send a message to a channel* with `/slack <channel> <message>`
+  - You can *send a private message* with `/pm <user> <message>`
 
 You will also receive notifications in chat (along with a cool sound) if:
-A message contains your username (your mc name to lowercase by default) (not caps-sensitive)
-You get pinged.
+  - A message contains your username (your mc name to lowercase by default) (not caps-sensitive)
+  - You get pinged.
 
 Your slack username (@username) isn't exactly your minecraft name lowercased? Oh mon deu! Don't worry too much though, you can just use `/slu <newusername, without the @>`
 
